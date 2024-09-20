@@ -39,3 +39,9 @@ Continue to follow the instructions from Chakra. Then run `npm run dev` to start
 ```bash
 npm i @chakra-ui/icons
 ```
+
+### State Management
+
+```bash
+npm i zustand
+```
